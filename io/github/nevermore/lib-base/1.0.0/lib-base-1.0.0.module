@@ -35,11 +35,11 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52432,
-          "sha512": "bd693b55b893419a63e068d72445b9e3abb9bdc8bc3248e83d766d9d0f87ae9c121ce9387e530a04d0db6436bfd5b852ea444cb5a8dd23f1dc64d5316c557c06",
-          "sha256": "7c14ddda08dff42d576ee08392192e6e1699c1e2805ef7e53b1f3450a13ebd54",
-          "sha1": "a8c51c134cf502c1bd650adf5fa5371a93db62a2",
-          "md5": "9fce1544fc1c3b169a146375dc1d13ef"
+          "size": 52425,
+          "sha512": "17b4b47d77b0df972c971b078f789979870d1163d21446c5ca138c4aad3ce0c31ec29234a249dc055b6b00ec58e9111a10d1c6cbdd72dfa485458d0dc077d844",
+          "sha256": "b2f3d275629aea148e72b1585df5e1eab8dd97e289d94a62d67732516f8f7970",
+          "sha1": "1c4e9329aed3cb34bbf73ce8a1f2b5593b69b14a",
+          "md5": "3aa8b0826853f30f04db1cd27eea12c3"
         }
       ]
     },
@@ -113,11 +113,11 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52432,
-          "sha512": "bd693b55b893419a63e068d72445b9e3abb9bdc8bc3248e83d766d9d0f87ae9c121ce9387e530a04d0db6436bfd5b852ea444cb5a8dd23f1dc64d5316c557c06",
-          "sha256": "7c14ddda08dff42d576ee08392192e6e1699c1e2805ef7e53b1f3450a13ebd54",
-          "sha1": "a8c51c134cf502c1bd650adf5fa5371a93db62a2",
-          "md5": "9fce1544fc1c3b169a146375dc1d13ef"
+          "size": 52425,
+          "sha512": "17b4b47d77b0df972c971b078f789979870d1163d21446c5ca138c4aad3ce0c31ec29234a249dc055b6b00ec58e9111a10d1c6cbdd72dfa485458d0dc077d844",
+          "sha256": "b2f3d275629aea148e72b1585df5e1eab8dd97e289d94a62d67732516f8f7970",
+          "sha1": "1c4e9329aed3cb34bbf73ce8a1f2b5593b69b14a",
+          "md5": "3aa8b0826853f30f04db1cd27eea12c3"
         }
       ]
     }
