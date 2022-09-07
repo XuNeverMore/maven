@@ -1,0 +1,125 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.nevermore",
+    "module": "lib-base",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "7.2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib-base-1.0.0.aar",
+          "url": "lib-base-1.0.0.aar",
+          "size": 52432,
+          "sha512": "bd693b55b893419a63e068d72445b9e3abb9bdc8bc3248e83d766d9d0f87ae9c121ce9387e530a04d0db6436bfd5b852ea444cb5a8dd23f1dc64d5316c557c06",
+          "sha256": "7c14ddda08dff42d576ee08392192e6e1699c1e2805ef7e53b1f3450a13ebd54",
+          "sha1": "a8c51c134cf502c1bd650adf5fa5371a93db62a2",
+          "md5": "9fce1544fc1c3b169a146375dc1d13ef"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "7.2.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "com.tencent.tbs",
+          "module": "tbssdk",
+          "version": {
+            "requires": "44216"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.3"
+          }
+        },
+        {
+          "group": "androidx.webkit",
+          "module": "webkit",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib-base-1.0.0.aar",
+          "url": "lib-base-1.0.0.aar",
+          "size": 52432,
+          "sha512": "bd693b55b893419a63e068d72445b9e3abb9bdc8bc3248e83d766d9d0f87ae9c121ce9387e530a04d0db6436bfd5b852ea444cb5a8dd23f1dc64d5316c557c06",
+          "sha256": "7c14ddda08dff42d576ee08392192e6e1699c1e2805ef7e53b1f3450a13ebd54",
+          "sha1": "a8c51c134cf502c1bd650adf5fa5371a93db62a2",
+          "md5": "9fce1544fc1c3b169a146375dc1d13ef"
+        }
+      ]
+    }
+  ]
+}
