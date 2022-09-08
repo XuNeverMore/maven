@@ -35,11 +35,11 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52425,
-          "sha512": "17b4b47d77b0df972c971b078f789979870d1163d21446c5ca138c4aad3ce0c31ec29234a249dc055b6b00ec58e9111a10d1c6cbdd72dfa485458d0dc077d844",
-          "sha256": "b2f3d275629aea148e72b1585df5e1eab8dd97e289d94a62d67732516f8f7970",
-          "sha1": "1c4e9329aed3cb34bbf73ce8a1f2b5593b69b14a",
-          "md5": "3aa8b0826853f30f04db1cd27eea12c3"
+          "size": 52429,
+          "sha512": "9b45bca23678834d926c5b845cd36a0dc563fee9aa3f81b893e7764b9a21cb7ade1ebceaf9152f1114b7892e80cc357f33d1b47d53641dc0b3639c522a870e7d",
+          "sha256": "2b254528115ddbc44b10f4bedb137e2792f477958b237741507e09bb70b4e917",
+          "sha1": "c5cce04ae8c50c111829411b2bc5f7052c3cb680",
+          "md5": "e33c350f9ec3391d7197e0bec79d85e1"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.7.0"
+            "requires": "1.8.0"
           }
         },
         {
@@ -113,11 +113,11 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52425,
-          "sha512": "17b4b47d77b0df972c971b078f789979870d1163d21446c5ca138c4aad3ce0c31ec29234a249dc055b6b00ec58e9111a10d1c6cbdd72dfa485458d0dc077d844",
-          "sha256": "b2f3d275629aea148e72b1585df5e1eab8dd97e289d94a62d67732516f8f7970",
-          "sha1": "1c4e9329aed3cb34bbf73ce8a1f2b5593b69b14a",
-          "md5": "3aa8b0826853f30f04db1cd27eea12c3"
+          "size": 52429,
+          "sha512": "9b45bca23678834d926c5b845cd36a0dc563fee9aa3f81b893e7764b9a21cb7ade1ebceaf9152f1114b7892e80cc357f33d1b47d53641dc0b3639c522a870e7d",
+          "sha256": "2b254528115ddbc44b10f4bedb137e2792f477958b237741507e09bb70b4e917",
+          "sha1": "c5cce04ae8c50c111829411b2bc5f7052c3cb680",
+          "md5": "e33c350f9ec3391d7197e0bec79d85e1"
         }
       ]
     }
