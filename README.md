@@ -16,3 +16,12 @@ dependencies {
     implementation("io.github.nevermore:lib-base:1.0.0")
 }
 ```
+
+## 设备信息
+
+```kotlin
+dependencies {
+    ...
+    implementation("io.github.nevermore:device-info:1.0.0")
+}
+```

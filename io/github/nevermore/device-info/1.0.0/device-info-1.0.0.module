@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.nevermore",
+    "module": "device-info",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "device-info-1.0.0.aar",
+          "url": "device-info-1.0.0.aar",
+          "size": 12308,
+          "sha512": "a3427fad14076b272b10fe4923ab9764c89f5251bc20ecf0c7e638996f23e1829bd37e6be07137cf7697e035556b219f72a01b536030582d56c1d141a32d9472",
+          "sha256": "a0720ba0497ea6fa3b9c033fce8448135fc174f363cbb62854465c16d9f76779",
+          "sha1": "68817665c1663acead2a76ef25ddec0b44f1122a",
+          "md5": "0d833c44262c18fe8f755c25441aa655"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "device-info-1.0.0.aar",
+          "url": "device-info-1.0.0.aar",
+          "size": 12308,
+          "sha512": "a3427fad14076b272b10fe4923ab9764c89f5251bc20ecf0c7e638996f23e1829bd37e6be07137cf7697e035556b219f72a01b536030582d56c1d141a32d9472",
+          "sha256": "a0720ba0497ea6fa3b9c033fce8448135fc174f363cbb62854465c16d9f76779",
+          "sha1": "68817665c1663acead2a76ef25ddec0b44f1122a",
+          "md5": "0d833c44262c18fe8f755c25441aa655"
+        }
+      ]
+    }
+  ]
+}
