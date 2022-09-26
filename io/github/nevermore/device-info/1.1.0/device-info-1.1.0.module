@@ -26,11 +26,11 @@
         {
           "name": "device-info-1.1.0.aar",
           "url": "device-info-1.1.0.aar",
-          "size": 48438,
-          "sha512": "dbd00229973dc24b19123c5209a3e42d5b0af2dea59009d47692450253f6ff5bcb645cd0ef7f12edbc44aa3f7d5deda5e07091066b2dfb87411eeae3b3131693",
-          "sha256": "35e5ed51673873a48c12883609f4b5bacb6697d44b7d927df31bf73436da6474",
-          "sha1": "075adfe736fa07aeafb0b7891ea562085fae2493",
-          "md5": "7be7bda23080c4b79e1e93114d46c1a6"
+          "size": 51669,
+          "sha512": "d3d74e286bb8b7c226adbfa422144470a900356fd6a00d2d6ba2177eef39600d86228d7b0184f9339f8f1338a43d143942452b18315ba513b922a1ad6d950ee6",
+          "sha256": "d4930d8aa3a0a8c8a6b85c8ed1f0aedc613444d959676d7bb53a100509f46f8a",
+          "sha1": "69c5cefcd99d16565e99ad095ef0e0a675f54e0e",
+          "md5": "90ce95b6d4e99df4020e33a762e8f769"
         }
       ]
     },
@@ -83,11 +83,11 @@
         {
           "name": "device-info-1.1.0.aar",
           "url": "device-info-1.1.0.aar",
-          "size": 48438,
-          "sha512": "dbd00229973dc24b19123c5209a3e42d5b0af2dea59009d47692450253f6ff5bcb645cd0ef7f12edbc44aa3f7d5deda5e07091066b2dfb87411eeae3b3131693",
-          "sha256": "35e5ed51673873a48c12883609f4b5bacb6697d44b7d927df31bf73436da6474",
-          "sha1": "075adfe736fa07aeafb0b7891ea562085fae2493",
-          "md5": "7be7bda23080c4b79e1e93114d46c1a6"
+          "size": 51669,
+          "sha512": "d3d74e286bb8b7c226adbfa422144470a900356fd6a00d2d6ba2177eef39600d86228d7b0184f9339f8f1338a43d143942452b18315ba513b922a1ad6d950ee6",
+          "sha256": "d4930d8aa3a0a8c8a6b85c8ed1f0aedc613444d959676d7bb53a100509f46f8a",
+          "sha1": "69c5cefcd99d16565e99ad095ef0e0a675f54e0e",
+          "md5": "90ce95b6d4e99df4020e33a762e8f769"
         }
       ]
     }
