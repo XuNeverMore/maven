@@ -22,6 +22,6 @@ dependencies {
 ```kotlin
 dependencies {
     ...
-    implementation("io.github.nevermore:device-info:1.0.0")
+    implementation("io.github.nevermore:device-info:1.1.0")
 }
 ```
