@@ -15,7 +15,7 @@
   },
   "variants": [
     {
-      "name": "debugVariantDebugApiPublication",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -35,16 +35,16 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52440,
-          "sha512": "44dc0acd1e0d437d994412e6e69de63a782ae76d82667fa803671135a82a7b628265c442cbc09349cec8d2d8c1e478669a1a3caa6dc9e5a5b04270422c88a8db",
-          "sha256": "85647383755847c2432012a2d7b24374b5ce40972045951229ec0db1d56ae9db",
-          "sha1": "1fd8f1bdf9e32613962da720a4c1427e24a1db46",
-          "md5": "9c70db749e9d26297dd5d5ff20c5a43f"
+          "size": 56220,
+          "sha512": "0c433a937f069f50ffa3ab179a8ccd6c94d691920bb06a288ad6df0b3ab71e1ea49f415effdf36924b14932d61ab325f490840d9be4042aeb769d3bf27402c01",
+          "sha256": "ae8a7a52541f8df99ac31edf4937f3b2268bc930f4b71b44512a243384656282",
+          "sha1": "fa13e0c15f5e91d35f8c13dfb92ffa88886715dd",
+          "md5": "ec43d1bff3652705e463206d9a982450"
         }
       ]
     },
     {
-      "name": "debugVariantDebugRuntimePublication",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -113,11 +113,11 @@
         {
           "name": "lib-base-1.0.0.aar",
           "url": "lib-base-1.0.0.aar",
-          "size": 52440,
-          "sha512": "44dc0acd1e0d437d994412e6e69de63a782ae76d82667fa803671135a82a7b628265c442cbc09349cec8d2d8c1e478669a1a3caa6dc9e5a5b04270422c88a8db",
-          "sha256": "85647383755847c2432012a2d7b24374b5ce40972045951229ec0db1d56ae9db",
-          "sha1": "1fd8f1bdf9e32613962da720a4c1427e24a1db46",
-          "md5": "9c70db749e9d26297dd5d5ff20c5a43f"
+          "size": 56220,
+          "sha512": "0c433a937f069f50ffa3ab179a8ccd6c94d691920bb06a288ad6df0b3ab71e1ea49f415effdf36924b14932d61ab325f490840d9be4042aeb769d3bf27402c01",
+          "sha256": "ae8a7a52541f8df99ac31edf4937f3b2268bc930f4b71b44512a243384656282",
+          "sha1": "fa13e0c15f5e91d35f8c13dfb92ffa88886715dd",
+          "md5": "ec43d1bff3652705e463206d9a982450"
         }
       ]
     }
