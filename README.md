@@ -13,7 +13,7 @@ maven {
 ```kotlin
 dependencies {
     ...
-    implementation("io.github.nevermore:lib-base:1.0.0")
+    implementation("io.github.nevermore:lib-base:1.0.4")
 }
 ```
 
